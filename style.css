@@ -1,0 +1,50 @@
+body
+	{
+		background-color: lightpink;
+	}
+
+table,tr,th,td
+	{
+		border-collapse: collapse;
+		border: 3px solid white;
+	}
+tr, td, th
+	{
+		padding: 20px;
+	}
+
+th
+	{
+		text-align: center;
+	}
+
+td
+	{
+		
+		text-align: center;
+	}
+
+tr:nth-child(odd)
+		{
+			background-color: salmon;
+		}
+
+tr:hover
+	{
+		background-color: lavenderblush;
+	}
+
+
+p
+	{
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+	}
+h1
+	{
+		font-size: 20px; font-family: Tahoma; text-align: center;
+	}
+hr
+	{
+		background-color: darkred; color: maroon; height: 2px; border-width: 0;">
+	}
+
